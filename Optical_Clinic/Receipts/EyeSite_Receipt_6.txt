@@ -1,0 +1,11 @@
+===== CJCEyeSite Optical Clinic =====
+Date: 2025-12-16 11:00:05
+Order ID: 6
+Customer Name: Pompompurin
+========================================
+Product              Model        Color      Qty   Price        Total       
+----------------------------------------
+Gucci                GG1209O      003 Silver 5     ₱  21619.20 ₱ 108096.00
+----------------------------------------
+Order Status: Pending
+========================================
